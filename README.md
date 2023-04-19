@@ -1,2 +1,2 @@
 # LinkedList
-Simple  linked list write in JAVA
+Simple  linked list written in JAVA
